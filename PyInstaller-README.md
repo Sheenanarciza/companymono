@@ -10,7 +10,7 @@
  
 #These various tools can all be used to create executables for Windows. They work slightly differently, but the end result is that you will have an executable and perhaps some other files that you need to distribute too.
 #PyInstaller and Briefcase can be used to create Windows and MacOS executables. Nuitka is a little different in that it turns your Python code into C code before converting it into an executable. What this means is that the result ends up much smaller than PyInstaller’s executable.
-
+#By converting your Python script into an executable file, you can protect your code from being modified or stolen, make it easier for others to use your program, and schedule tasks to run automatically
 
  
  
